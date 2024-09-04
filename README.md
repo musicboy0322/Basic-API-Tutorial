@@ -1,4 +1,70 @@
-# 2022年 Ithome 鐵人賽
+# 15th iThome Ironman Contest(English Version) 
+
+* Category：Modern Web Team
+
+* Topic：Using Node.js build your own API!
+
+* Motivation：During the summer vacation of my second year in college, my friends and I participated in a Hackathon competition. I was responsible for providing daily horoscopes for each star sign. Initially, I couldn’t find a suitable API, and just when I was about to build one myself, I finally found a relevant API. After the competition, one of my courses required participation in the iThome Ironman Contest. While I was considering a topic, I recalled the challenge I faced during the Hackathon, which led me to introduce and apply my knowledge about API.
+  
+* Final Purpose：Hoping everyone can gain a basic understanding of API and learn how to build their own.
+
+* Technique：
+  * JavaScript SE5+SE6
+  * Node.js / Express
+  * MongoDB / Mongoose
+  * Python
+  * RESTful API
+    
+* Article List：
+  > Theme Introduction：
+    * [Day1 Motivation of iron contest and outline](https://ithelp.ithome.com.tw/articles/10291032)
+    * [Day2 The difference between a general API and a RESTful API](https://ithelp.ithome.com.tw/articles/10291499)
+    * [Day3 Introduction to development tools and their extensions](https://ithelp.ithome.com.tw/articles/10292475)
+    * [Day4 Node.js download and NPM introduction](https://ithelp.ithome.com.tw/articles/10293367)
+    * [Day5 Introduce VSCode terminal and related command](https://ithelp.ithome.com.tw/articles/10293750)
+    <br />
+    
+  > JS concept interpretion and how to import Node.js package ： 
+    * [Day6 Using JavaScript to write Hello World](https://ithelp.ithome.com.tw/articles/10294712)
+    * [Day7 JavaScript advanced concepts(1) - block/function scope](https://ithelp.ithome.com.tw/articles/10295517)
+    * [Day8 JavaScript advanced concepts(2) - anonymous functions](https://ithelp.ithome.com.tw/articles/10296022)
+    * [Day9 JavaScript advanced concepts(3) - Promise for asynchronous programming](https://ithelp.ithome.com.tw/articles/10296734)
+    * [Day10 JavaScript advanced concepts(4) - async/await](https://ithelp.ithome.com.tw/articles/10297416)
+    * [Day11 Node.js about export/import](https://ithelp.ithome.com.tw/articles/10298084)
+    <br />
+    
+  > Developing API：
+    * [Day12 Preparing the environment for API development](https://ithelp.ithome.com.tw/articles/10298816)
+    * [Day13 Express east application](https://ithelp.ithome.com.tw/articles/10299501)
+    * [Day14 Middleware introduction](https://ithelp.ithome.com.tw/articles/10300167)
+    * [Day15 Router introduction](https://ithelp.ithome.com.tw/articles/10300745)
+    * [Day16 MongoDB Atlas account build](https://ithelp.ithome.com.tw/articles/10301438)
+    * [Day17 Database connection](https://ithelp.ithome.com.tw/articles/10302028)
+    * [Day18 Database schema build](https://ithelp.ithome.com.tw/articles/10302622)
+    * [Day19 Postman introduction](https://ithelp.ithome.com.tw/articles/10303194)
+    * [Day20 POST easy application](https://ithelp.ithome.com.tw/articles/10303909)
+    * [Day21 POST application](https://ithelp.ithome.com.tw/articles/10304394)
+    * [Day22 GET application](https://ithelp.ithome.com.tw/articles/10304841)
+    * [Day23 PUT application](https://ithelp.ithome.com.tw/articles/10305421)
+    * [Day24 PATCH application](https://ithelp.ithome.com.tw/articles/10306137)
+    * [Day25 DELETE application](https://ithelp.ithome.com.tw/articles/10306363)
+    <br />
+    
+  > Testing API：
+    * [Day26 CORS introduction and download](https://ithelp.ithome.com.tw/articles/10306899)
+    * [Day27 Using fetch to get API](https://ithelp.ithome.com.tw/articles/10307363)
+    * [Day28 Jupyter Notebook and relevant package download](https://ithelp.ithome.com.tw/articles/10307706)
+    * [Day29 Using Python library Requests to test API](https://ithelp.ithome.com.tw/articles/10308124)
+    <br />
+   
+  > Concept Review ＆Competition Reflection：
+    * [Day30 Ironman Contest review & reflection](https://ithelp.ithome.com.tw/articles/10308513)
+  
+
+# 15th iThome 鐵人賽(中文版本)
+
+* 組別：Modern Web Team
+
 * 主題：利用 Node.js 建立專屬於你的 API 吧
 
 * 選題動機：在大二升大三的暑假期間有參加黑客松比賽，而我所負責的部分需要用到各個星座的每日運勢，那時找破頭都找不到相關的 API，所以就突發奇想想要自己建看看，在要開始找資料建立時，意外找到了星座運勢的 API，順理成章就用了現成的，沒自己製作。而因為大三有課程本來就規定需要參加鐵人賽，因此馬上決定要學習這項技術作為參加鐵人賽的主題。
@@ -9,6 +75,8 @@
   * JavaScript SE5+SE6
   * Node.js / Express
   * MongoDB / Mongoose
+  * Python
+  * RESTful API
 
 * 文章列表：
   > 主題介紹：
