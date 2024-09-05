@@ -1,6 +1,6 @@
 # 15th iThome Ironman Contest(English Version) 
 
-* Category：Modern Web Team
+* Theme：Modern Web Team
 
 * Topic：Using Node.js build your own API!
 
